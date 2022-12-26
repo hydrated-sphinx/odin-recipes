@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: dashed;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#OdinRecipesHeader {
+    background-color: black;
+    color: rebeccapurple;
+    font-weight: bold
+}
